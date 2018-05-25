@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Chavo</title>
+	<title>ChavoDelOcho</title>
 	<meta charset="utf-8">
 </head>
 <body>
