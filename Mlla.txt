@@ -1,4 +1,4 @@
-<table border="1">
+<table border="0">
 		<tr>
 			<td rowspan="12">1</td> <td rowspan="4">a</td> <td>a</td>
 														  <tr><td>a</td></tr>
